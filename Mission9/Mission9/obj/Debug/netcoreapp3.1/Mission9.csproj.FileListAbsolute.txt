@@ -1,0 +1,8 @@
+C:\Users\Maryn\Source\Repos\Mission9\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Mission9.csproj.AssemblyReference.cache
+C:\Users\Maryn\Source\Repos\Mission9\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Mission9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maryn\Source\Repos\Mission9\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Mission9.AssemblyInfoInputs.cache
+C:\Users\Maryn\Source\Repos\Mission9\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Mission9.AssemblyInfo.cs
+C:\Users\Maryn\Source\Repos\Mission9\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Mission9.csproj.CoreCompileInputs.cache
+C:\Users\Maryn\Source\Repos\Mission9\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Mission9.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maryn\Source\Repos\Mission9\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Mission9.RazorAssemblyInfo.cache
+C:\Users\Maryn\Source\Repos\Mission9\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Mission9.RazorAssemblyInfo.cs
